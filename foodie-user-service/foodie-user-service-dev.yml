@@ -1,0 +1,13 @@
+# 数据库连接串 & 密码
+mysql:
+  url: 'jdbc:mysql://124.221.185.144:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false'
+  password: 
+
+
+
+# 功能开关 - 开启/关闭注册功能
+
+
+
+
+# actuator
